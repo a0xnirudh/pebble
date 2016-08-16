@@ -1,0 +1,24 @@
+{
+    "author": "anirudh.anand722@yahoo.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "2b85df56-3e6d-4e18-952b-ab4faf81561f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
